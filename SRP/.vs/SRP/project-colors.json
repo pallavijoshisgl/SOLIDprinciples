@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4c795221-7fde-4d26-b61a-baf18074f8ff": {
+      "ProjectGuid": "4c795221-7fde-4d26-b61a-baf18074f8ff",
+      "DisplayName": "ViolatingSRP",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

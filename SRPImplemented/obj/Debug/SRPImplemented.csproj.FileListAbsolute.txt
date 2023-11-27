@@ -1,0 +1,8 @@
+D:\SOLIDPrinciples\SRPImplemented\bin\Debug\SRPImplemented.exe.config
+D:\SOLIDPrinciples\SRPImplemented\bin\Debug\SRPImplemented.exe
+D:\SOLIDPrinciples\SRPImplemented\bin\Debug\SRPImplemented.pdb
+D:\SOLIDPrinciples\SRPImplemented\obj\Debug\SRPImplemented.csproj.AssemblyReference.cache
+D:\SOLIDPrinciples\SRPImplemented\obj\Debug\SRPImplemented.csproj.SuggestedBindingRedirects.cache
+D:\SOLIDPrinciples\SRPImplemented\obj\Debug\SRPImplemented.csproj.CoreCompileInputs.cache
+D:\SOLIDPrinciples\SRPImplemented\obj\Debug\SRPImplemented.exe
+D:\SOLIDPrinciples\SRPImplemented\obj\Debug\SRPImplemented.pdb
